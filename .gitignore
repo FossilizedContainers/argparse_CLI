@@ -1,0 +1,13 @@
+# Any environment folder
+env/
+
+# Vim swap files
+*.swp
+
+__pycache__
+
+# What I convert markdowns to so I can save them on google docs
+*.odt
+
+# Some practice files I was using
+tutorial/
